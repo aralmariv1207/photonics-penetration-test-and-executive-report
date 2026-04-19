@@ -2,6 +2,6 @@
 
 ## About
 
-As the final project, this assignment consisted of a penetration test and an executive report.
+As the final project, this assignment consisted of both a penetration test and an executive report.
 
 **[TBD]**
